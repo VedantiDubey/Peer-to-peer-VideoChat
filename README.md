@@ -8,6 +8,7 @@ Install dependencies - npm install
 Start - npm start  
 
 Install watchify as developer dependency- npm install watchify --save-dev
+
 For development run watchify - npm run watch  
 
 Open localhost in two browser tabs for testing. On the same machine, don't open tabs in two different browsers as it will fail to provide camera access to 2 different applications(browsers) simultaneously.   
