@@ -1,0 +1,15 @@
+video {
+    transform: rotateY(180deg);
+}
+
+.select {
+    height: 30px;
+}
+
+.h-80 {
+    height: 80% ;
+}
+
+.h-10 {
+    height: 10% ;
+}
